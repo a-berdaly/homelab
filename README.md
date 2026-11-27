@@ -17,3 +17,7 @@ Hosts my personal portfolio website.
 
 ## Environment
 - Ubuntu Server 26.04 LTS (VMware)
+
+
+## About me
+2nd-line IT support engineer moving into DevOps and Linux administration.
